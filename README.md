@@ -57,4 +57,5 @@ By using this repository you agree to:
 - **Limit testing to isolated labs, VMs, or assets with owner consent.
 - **Avoid destructive payloads or unauthorized exfiltration unless explicitly approved.
 - **Comply with applicable laws and organizational policies.
+  
 The maintainers disclaim liability for misuse. Misuse of HID emulation devices can be illegal and cause serious harm.
