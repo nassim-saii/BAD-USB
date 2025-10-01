@@ -15,11 +15,10 @@ BAD‑USB is an open‑source hardware and firmware project demonstrating USB HI
 
 ## Repository structure (high level)
 - `firmware/` — Arduino/MCU sketches (`.ino`) and build notes.  
-- `payloads/` or `scripts/` — example payload text files (e.g., `script.txt`).  
-- `hardware/` or `PCB/` — schematics, PCB artwork, and reference images.  
-- `docs/` — optional documentation, lab guides, and contributor notes.
+- `scripts/` — example payload text files (e.g., `script.txt`).  
+- `PCB/` — schematics, PCB artwork, and reference images.  
 
-> Verify exact folder names in the repository root and adapt paths as needed.
+
 
 ---
 
@@ -37,3 +36,25 @@ BAD‑USB is an open‑source hardware and firmware project demonstrating USB HI
 ```bash
 git clone https://github.com/nassim-saii/BAD-USB.git
 cd BAD-USB
+```
+
+## Common directives
+
+- `DELAY/` <ms> — wait <ms> milliseconds.
+- `STRING/` <text> — type <text> as keyboard input.
+- `ENTER/` — press Enter/Return.
+- `TAB/` — press Tab.
+- `ESC/` — press Escape.
+- `CTRL/`, `ALT/`, `SHIFT/` — used in combination or on their own depending on parser implementation.
+- `REPEAT/` <n> — repeat previous command <n> times (if implemented).
+
+
+
+## Responsible testing & legal
+
+By using this repository you agree to:
+- **Obtain explicit, written authorization before testing systems you do not own.
+- **Limit testing to isolated labs, VMs, or assets with owner consent.
+- **Avoid destructive payloads or unauthorized exfiltration unless explicitly approved.
+- **Comply with applicable laws and organizational policies.
+The maintainers disclaim liability for misuse. Misuse of HID emulation devices can be illegal and cause serious harm.
