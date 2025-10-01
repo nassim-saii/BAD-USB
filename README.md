@@ -23,12 +23,6 @@ For educational and authorized security‑testing purposes only. Do not use this
 
 ---
 
-## 💻 About the Project
-
-EvilDuck is an open‑source hardware and software platform that implements HID (Human Interface Device) keyboard emulation to execute preconfigured payloads on host systems. Engineered as a low‑cost, fully customizable alternative to commercial tools (e.g., USB Rubber Ducky), the project leverages widely available microcontrollers and components to deliver repeatable, scriptable keystroke attacks for red‑team assessments, device hardening tests, and research. Designed for use in authorized security testing, EvilDuck provides a compact, extensible framework for developing and validating automated input‑based attack scenarios and mitigations.
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
-
-
 
 ## Project Overview
 BAD‑USB is an open‑source hardware and firmware platform that implements USB HID (Human Interface Device) keyboard emulation to execute scripted input sequences on target hosts. Designed as a low‑cost, extensible alternative to commercial keystroke injectors, the project collects board references, PCB resources, firmware examples, and payload templates for controlled laboratory use.
