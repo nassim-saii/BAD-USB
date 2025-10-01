@@ -1,0 +1,7 @@
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+STRING EvilDuck is live!
+ENTER
