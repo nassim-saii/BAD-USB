@@ -14,7 +14,7 @@ BAD‑USB is an open‑source hardware and firmware project demonstrating USB HI
 ---
 
 ## Repository structure (high level)
-- `firmware/` — Arduino/MCU sketches (`.ino`) and build notes.  
+- `BAD-USB_Code/` — Arduino/MCU sketches (`.ino`) and build notes.  
 - `scripts/` — example payload text files (e.g., `script.txt`).  
 - `PCB/` — schematics, PCB artwork, and reference images.  
 
