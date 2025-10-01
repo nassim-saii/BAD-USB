@@ -3,5 +3,5 @@ DELAY 500
 STRING notepad
 ENTER
 DELAY 1000
-STRING EvilDuck is live!
+STRING BAD-USB is live!
 ENTER
