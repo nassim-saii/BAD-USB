@@ -4,16 +4,22 @@
 
 For educational and authorized security‑testing purposes only. Do not use this project to compromise systems without explicit permission.
 
-
-<div align="center"> 
-  <img src="https://github.com/nassim-saii/BAD-USB/blob/main/Pic1.jpg" />
-</div>
 ---
 
 ## Overview
 BAD‑USB is an open‑source hardware and firmware project demonstrating USB HID (Human Interface Device) keyboard emulation to execute scripted input sequences on host systems. This repository includes firmware examples, payload templates, and hardware references intended for controlled laboratory use to support USB hardening assessments, red‑team/blue‑team exercises, and security research.
 
 ---
+
+
+<div align="center"> 
+  <img src="https://github.com/nassim-saii/BAD-USB/blob/main/Pic1.jpg" alt="screenshot" width="Auto" height="Auto" />
+</div>
+
+
+---
+
+
 
 ## Repository structure (high level)
 - `BAD-USB_Code/` — Arduino/MCU sketches (`.ino`) and build notes.  
