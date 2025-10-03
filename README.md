@@ -22,9 +22,9 @@ BAD‑USB is an open‑source hardware and firmware project demonstrating USB HI
 
 <div class="grid" markdown>
 
-![Image title]([https://dummyimage.com](https://github.com/nassim-saii/BAD-USB/blob/main/PICs/F-Front%20%20View.png)/600x400/f5f5f5/aaaaaa?text=1)
+![Front View](https://github.com/nassim-saii/BAD-USB/blob/main/PICs/F-Front%20%20View.png/600x400/f5f5f5/aaaaaa?text=1)
 
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2)
+![Back View]([https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=2](https://github.com/nassim-saii/BAD-USB/blob/main/PICs/F-Back%20View.png))
 
 ![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa?text=3)
 
